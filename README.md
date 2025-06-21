@@ -1,3 +1,3 @@
 # kaiserion
 
-chat i might be dumb idk how github pages work
+helLo! trying to figure out how github pages work
